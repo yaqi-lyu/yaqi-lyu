@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I work at SSW [ssw.com.au/people/willow-lyu](ssw.com.au/people/willow-lyu)
+🔭 I work at SSW [ssw.com.au/people/willow-lyu](https://ssw.com.au/people/willow-lyu)
 
 📫 How to reach me: @yaqi-lyu
 
