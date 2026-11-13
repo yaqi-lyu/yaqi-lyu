@@ -1,13 +1,16 @@
-# Hi, I’m Willow Lyu
+## Hi there 👋
 
-I’m a software engineer at SSW with a background in product management. I build web applications with React and TypeScript and work on Python automation and AI agent workflows.
+🔭 I work at SSW [ssw.com.au/people/willow-lyu](https://ssw.com.au/people/willow-lyu)
 
-[SSW profile](https://www.ssw.com.au/people/willow-lyu/) · She/her
+📫 How to reach me: @yaqi-lyu
 
-## Projects
+😄 Pronouns: She/her/hers
 
-- [Movie Review](https://github.com/yaqi-lyu/movie-review) — A React web app for browsing movies and reading reviews.
-- [WanderPin](https://github.com/yaqi-lyu/WanderPin) — A team project built with React Native, Expo, and Firebase for keeping travel journals and saving places on a map.
+[![Willow Lyu [SSW]'s github stats](https://github-readme-stats.vercel.app/api?username=yaqi-lyu&amp;theme=dark)](https://github.com/yaqi-lyu/github-readme-stats)
+
+## Engineering focus
+
+I’m a software engineer with a background in product management. I build web applications with React and TypeScript and work on Python automation and AI agent workflows.
 
 ## Open source
 
